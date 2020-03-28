@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: cxrloveuu.github.io
+url:
 date_format: "ordinal"
 title: jsonchan
 subtitle: ""
