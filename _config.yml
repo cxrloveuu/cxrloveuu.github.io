@@ -76,7 +76,7 @@ collections:
     output: true
     permalink: /wiki/:path/
 
-repository: cxrloveuu/cxrloveuu.github.io
+repository:
 
 # ---------------- #
 #      Comments    #
